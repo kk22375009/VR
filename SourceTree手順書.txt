@@ -1,14 +1,14 @@
-<SourceTreeŽg—p‚Ì—¬‚ê>
+ï»¿<SourceTreeä½¿ç”¨ã®æµã‚Œ>
 
-`‘¼‚Ìl‚ÌƒvƒƒOƒ‰ƒ€‚ðXV`
-1,ƒtƒFƒbƒ`‚ÅƒvƒbƒVƒ…î•ñ‚ÌXV
-2,ƒvƒ‹‚Å•ÏX“à—e‚ðXV
+ï½žä»–ã®äººã®ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’æ›´æ–°ï½ž
+1,ãƒ•ã‚§ãƒƒãƒã§ãƒ—ãƒƒã‚·ãƒ¥æƒ…å ±ã®æ›´æ–°
+2,ãƒ—ãƒ«ã§å¤‰æ›´å†…å®¹ã‚’æ›´æ–°
 
-`Ž©•ª‚ÌƒvƒƒOƒ‰ƒ€‚ðSourceTree“à‚ÉXV`
-1,•ÏXŒãƒRƒ~ƒbƒg
-2,‚·‚×‚ÄƒCƒ“ƒfƒbƒNƒX‚É’Ç‰Á
-3,‰º‚ÌƒRƒƒ“ƒgƒ{ƒbƒNƒX‚ÉƒƒbƒZ[ƒW‹L“ü(”CˆÓ)
-4,‰E‰ºƒRƒ~ƒbƒgƒ{ƒ^ƒ“‰Ÿ‚·
-5,ƒvƒbƒVƒ…‚ÅƒvƒƒOƒ‰ƒ€‚ðSourceTree“à‚ÉXV
+ï½žè‡ªåˆ†ã®ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’SourceTreeå†…ã«æ›´æ–°ï½ž
+1,å¤‰æ›´å¾Œã‚³ãƒŸãƒƒãƒˆ
+2,ã™ã¹ã¦ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ã«è¿½åŠ 
+3,ä¸‹ã®ã‚³ãƒ¡ãƒ³ãƒˆãƒœãƒƒã‚¯ã‚¹ã«ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸è¨˜å…¥(ä»»æ„)
+4,å³ä¸‹ã‚³ãƒŸãƒƒãƒˆãƒœã‚¿ãƒ³æŠ¼ã™
+5,ãƒ—ãƒƒã‚·ãƒ¥ã§ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’SourceTreeå†…ã«æ›´æ–°
 
 
